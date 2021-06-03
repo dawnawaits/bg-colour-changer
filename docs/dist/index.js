@@ -26,4 +26,3 @@ window.onload = function () {
         return changeColor(document.querySelector("body"));
     });
 };
-//# sourceMappingURL=index.js.map
